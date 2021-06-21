@@ -3,14 +3,14 @@
 **ABOGADO**, otorgado el 4 de marzo de 2020 por la Excma. Corte Suprema de Justicia de Chile.
 
 <div align="center">⁂</div>
-
+<br>
 ## ESTUDIOS UNIVERSITARIOS DE PREGRADO.
 
  - Egresado Facultad de Derecho, **Universidad de Chile**. 2013-2018.
  - **Examen de Licenciatura** rendido en diciembre de 2018, aprobado con  _distinción máxima_.
  - **Memoria:** “_Concesión de beneficios penitenciarios para condenados por   delitos de lesa humanidad_”, aprobada en 2018.
 
-<div align="center">⁂</div>  
+<div align="center">⁂</div>
 
 ## PRÁCTICA PROFESIONAL.
 

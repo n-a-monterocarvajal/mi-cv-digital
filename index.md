@@ -1,4 +1,4 @@
-## CONTACTO
+## CONTACTO.
 <p><a href="https://www.linkedin.com/in/nicolas-alonso-montero-carvajal/">LinkedIn</a></p>
 ## TÍTULO.
 
@@ -10,27 +10,23 @@
  - **Examen de Licenciatura** rendido en diciembre de 2018, aprobado con  _distinción máxima_.
  - **Memoria:** “_Concesión de beneficios penitenciarios para condenados por   delitos de lesa humanidad_”, aprobada en 2018.
 
-<div align="center">⁂</div>
-
+<p><div align="center">⁂</div></p>
 ## PRÁCTICA PROFESIONAL.
 
 **Ministerio Público de Chile**. Fiscalía Regional Metropolitana Centro Norte. Fiscalía Local Santiago Norte. 2019.
-
-<div align="center">⁂</div>
-
+<p><div align="center">⁂</div></p>
 ## EXPERIENCIA LABORAL.
 
  - **EJR: Estudio Jurídico Reivindicar.** _Socio fundador_. Mayo 2020 al presente. Experiencia en área civil, familia, y acciones constitucionales.
  - **Senado de la República de Chile.** _Abogado de    apoyo legislativo_. Noviembre y diciembre 2020, enero 2021.
 
-<div align="center">⁂</div>
-
+<p><div align="center">⁂</div></p>
 ## DESARROLLO DE ACTIVIDADES ACADÉMICAS RELEVANTES.
 
  - **Postulación, organización y ejecución** del proyecto “_**Escuela de Formación Penitenciaria 2018**_”, por el Fondo Concursable de Extensión Estudiantil 2017, Facultad de Derecho de la Universidad de Chile, en coordinación con ONG LEASUR. 
  - **Expositor** en el conversatorio: “_**La Libertad Condicional: la historia, la realidad y los desafíos**_”. Participan: Asociación Pensamiento Penal Chile; ABOFEM; Asociación Nacional de Magistradas y   Magistrados del Poder Judicial de Chile (ANMM); Instituto de Segurança Humana para América Latina e Caribe (ISHALC); LEASUR ONG. 20 de agosto de 2020.
 
-<div align="center">⁂</div>
+<p><div align="center">⁂</div></p>
 
 ## ASISTENCIA CERTIFICADA A ACTIVIDADES ACADÉMICAS.
 
@@ -38,7 +34,7 @@
  - “_Nueva Ley de Ejecución Penal. Impulsando   el debate._” Organizado por Pensamiento Penal Chile, LEASUR y el Instituto de Investigación en Derecho de la Universidad Autónoma de Chile. 12 de septiembre de 2019.
  - “_Actualización en Responsabilidad Patrimonial del Estado_”. Pontificia Universidad Católica de Valparaíso. Agosto de 2020.
 
-<div align="center">⁂</div>
+<p><div align="center">⁂</div></p>
 
 ## VOLUNTARIADO.
 

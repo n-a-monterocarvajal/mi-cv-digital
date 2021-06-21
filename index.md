@@ -1,9 +1,7 @@
 ## TÍTULO.
 
 **ABOGADO**, otorgado el 4 de marzo de 2020 por la Excma. Corte Suprema de Justicia de Chile.
-
-<div align="center">⁂</div>
-<br>
+<br><div align="center">⁂</div><br>
 ## ESTUDIOS UNIVERSITARIOS DE PREGRADO.
 
  - Egresado Facultad de Derecho, **Universidad de Chile**. 2013-2018.

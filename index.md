@@ -11,8 +11,7 @@
  - **Memoria:** “_Concesión de beneficios penitenciarios para condenados por   delitos de lesa humanidad_”, aprobada en 2018.
 
 <div align="center">⁂</div>
-
-
+\
 ## PRÁCTICA PROFESIONAL.
 
 **Ministerio Público de Chile**. Fiscalía Regional Metropolitana Centro Norte. Fiscalía Local Santiago Norte. 2019.
@@ -40,7 +39,6 @@
  - “_Actualización en Responsabilidad Patrimonial del Estado_”. Pontificia Universidad Católica de Valparaíso. Agosto de 2020.
 
 <div align="center">⁂</div>
-
 
 ## VOLUNTARIADO.
 

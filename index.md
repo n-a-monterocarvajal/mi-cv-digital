@@ -10,8 +10,8 @@
  - **Examen de Licenciatura** rendido en diciembre de 2018, aprobado con  _distinción máxima_.
  - **Memoria:** “_Concesión de beneficios penitenciarios para condenados por   delitos de lesa humanidad_”, aprobada en 2018.
 
-<div align="center">⁂</div>
-\
+<div align="center">⁂</div>  
+
 ## PRÁCTICA PROFESIONAL.
 
 **Ministerio Público de Chile**. Fiscalía Regional Metropolitana Centro Norte. Fiscalía Local Santiago Norte. 2019.

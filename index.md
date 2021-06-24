@@ -38,7 +38,7 @@
  - “Actualización en Responsabilidad Patrimonial del Estado”. Pontificia Universidad Católica de Valparaíso. Agosto de 2020.
  - “Principios básicos de Big Data”. Curso en línea SENCE. Servicio Nacional de  Capacitación y Empleo, y Fundación Telefónica Movistar. 20 horas realizadas. Junio de 2021.
  - “Aprende SCRUM”. Introducción a metodología ágil de trabajo colaborativo. Curso en línea Linkedin Learning. Project Management Institute. Junio de 2021.
- - 
+
 <p><div align="center">⁂</div></p>
 
 ## ASISTENCIA CERTIFICADA A ACTIVIDADES ACADÉMICAS.

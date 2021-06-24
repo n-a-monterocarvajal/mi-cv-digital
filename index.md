@@ -1,10 +1,12 @@
 ## CONTACTO.
 <p><a href="https://www.linkedin.com/in/nicolas-alonso-montero-carvajal/">LinkedIn</a></p>
+
 <p><div align="center">⁂</div></p>
 
 ## TÍTULO.
 
 **ABOGADO**, otorgado el 4 de marzo de 2020 por la Excma. Corte Suprema de Justicia de Chile.
+
 <p><div align="center">⁂</div></p>
 
 ## ESTUDIOS UNIVERSITARIOS DE PREGRADO.
@@ -14,16 +16,19 @@
  - **Memoria:** “_Concesión de beneficios penitenciarios para condenados por   delitos de lesa humanidad_”, aprobada en 2018.
 
 <p><div align="center">⁂</div></p>
+
 ## PRÁCTICA PROFESIONAL.
 
 **Ministerio Público de Chile**. Fiscalía Regional Metropolitana Centro Norte. Fiscalía Local Santiago Norte. 2019.
 <p><div align="center">⁂</div></p>
+
 ## EXPERIENCIA LABORAL.
 
  - **EJR: Estudio Jurídico Reivindicar.** _Socio fundador_. Mayo 2020 al presente. Experiencia en área civil, familia, y acciones constitucionales.
  - **Senado de la República de Chile.** _Abogado de    apoyo legislativo_. Noviembre y diciembre 2020, enero 2021.
 
 <p><div align="center">⁂</div></p>
+
 ## DESARROLLO DE ACTIVIDADES ACADÉMICAS RELEVANTES.
 
  - **Postulación, organización y ejecución** del proyecto “_**Escuela de Formación Penitenciaria 2018**_”, por el Fondo Concursable de Extensión Estudiantil 2017, Facultad de Derecho de la Universidad de Chile, en coordinación con ONG LEASUR. 

@@ -1,10 +1,12 @@
 ## CONTACTO.
 <p><a href="https://www.linkedin.com/in/nicolas-alonso-montero-carvajal/">LinkedIn</a></p>
 <p><div align="center">⁂</div></p>
+
 ## TÍTULO.
 
 **ABOGADO**, otorgado el 4 de marzo de 2020 por la Excma. Corte Suprema de Justicia de Chile.
 <p><div align="center">⁂</div></p>
+
 ## ESTUDIOS UNIVERSITARIOS DE PREGRADO.
 
  - Egresado Facultad de Derecho, **Universidad de Chile**. 2013-2018.

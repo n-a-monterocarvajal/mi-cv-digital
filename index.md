@@ -36,6 +36,14 @@
 
 <p><div align="center">⁂</div></p>
 
+## CURSOS DE FORMACIÓN PROFESIONAL CERTIFICADOS.
+ - “Curso sobre Protocolo de Estambul para observadores en recintos de privación de libertad”. Instituto Dr. Carlos Ybar, Servicio Médico Legal. Noviembre de 2016.
+ - “Actualización en Responsabilidad Patrimonial del Estado”. Pontificia Universidad Católica de Valparaíso. Agosto de 2020.
+ - “Principios básicos de Big Data”. Curso en línea SENCE. Servicio Nacional de  Capacitación y Empleo, y Fundación Telefónica Movistar. 20 horas realizadas. Junio de 2021.
+ - “Aprende SCRUM”. Introducción a metodología ágil de trabajo colaborativo. Curso en línea Linkedin Learning. Project Management Institute. Junio de 2021.
+ - 
+<p><div align="center">⁂</div></p>
+
 ## ASISTENCIA CERTIFICADA A ACTIVIDADES ACADÉMICAS.
 
  - “_Curso sobre Protocolo de Estambul para observadores en recintos de privación de libertad_”. Instituto Dr. Carlos Ybar, Servicio Médico Legal. Noviembre de 2016.

@@ -46,9 +46,7 @@
 
 ## ASISTENCIA CERTIFICADA A ACTIVIDADES ACADÉMICAS.
 
- - “_Curso sobre Protocolo de Estambul para observadores en recintos de privación de libertad_”. Instituto Dr. Carlos Ybar, Servicio Médico Legal. Noviembre de 2016.
- - “_Nueva Ley de Ejecución Penal. Impulsando   el debate._” Organizado por Pensamiento Penal Chile, LEASUR y el Instituto de Investigación en Derecho de la Universidad Autónoma de Chile. 12 de septiembre de 2019.
- - “_Actualización en Responsabilidad Patrimonial del Estado_”. Pontificia Universidad Católica de Valparaíso. Agosto de 2020.
+ - “Nueva Ley de Ejecución Penal. Impulsando el debate.” Organizado por Pensamiento Penal Chile, LEASUR y el Instituto de Investigación en Derecho de la Universidad Autónoma de Chile. 12 de septiembre de 2019.
 
 <p><div align="center">⁂</div></p>
 

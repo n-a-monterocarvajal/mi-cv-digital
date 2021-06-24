@@ -1,4 +1,4 @@
-page.title: Currículum Vitae de Nicolás Montero Carvajal
+## CURRÍCULUM VITAE DE NICOLÁS MONTERO CARVAJAL
 
 
 ## CONTACTO.
